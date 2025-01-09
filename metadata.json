@@ -1,0 +1,39 @@
+{
+  "id": "I45A97E52",
+  "title": {
+    "BO": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།"
+  },
+  "author": {
+    "BO": "དབྱིག་གཉེན།"
+  },
+  "imported": "2025-01-09T11:11:52.754569",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "title_short": {
+      "BO": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།"
+    },
+    "title_long_clean": {
+      "BO": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།"
+    }
+  },
+  "bases": [
+    {
+      "D127": {
+        "source_metadata": {
+          "total_segments": 10601
+        },
+        "base_file": "D127.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
